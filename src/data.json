@@ -1,0 +1,22 @@
+{
+    "img": "https://fastly.picsum.photos/id/1049/200/300.jpg?hmac=IwgFpI60m03JoXBvIB_0oA12YR8cNaSel6lUvKhQvF0",
+    "aboutMe" : "hi its me dhruv",
+    "skills" :  ["react", "node", "express", "mongodb", "javascript", "html", "css"],
+    "hobbies" : ["coding", "reading", "gaming"],
+    "passions" : ["coding", "reading", "gaming"],
+    "academic" : [
+        {
+            "degree" : "University of Waterloo",
+            "university" : "Bachelor of Science in Computer Science",
+            "year" : "2018"
+        }
+    ],
+    "experience" : [
+        {
+            "role" : "Apple",
+            "company" : "Software Engineer",
+            "duration" : "2018"
+        }
+    ],
+    "certifications" : ["aws certifications"]
+}
