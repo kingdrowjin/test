@@ -10,9 +10,7 @@ const Certifications = ({data}) => {
             key={index} 
             className="bg-gradient-to-r from-indigo-50 to-purple-50 p-4 rounded-lg border border-indigo-100 hover:shadow-md transition-all duration-300"
           >
-            <h3 className="text-lg font-semibold text-indigo-700 mb-2">{cert.name}</h3>
-            <p className="text-gray-600">{cert.issuer}</p>
-            <p className="text-sm text-indigo-500 mt-2">{cert.date}</p>
+            <h3 className="text-lg font-semibold text-indigo-700 mb-2">{cert}</h3>
           </div>
         ))}
       </div>
